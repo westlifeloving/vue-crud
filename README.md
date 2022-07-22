@@ -1,4 +1,4 @@
-# hello
+# vue-crud
 
 ## Project setup
 ```
