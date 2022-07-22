@@ -1,4 +1,4 @@
-# vue-crud
+# vue-crud知道创宇控制策略页面demo（vue.js+element-ui实现）
 
 ## Project setup
 ```
